@@ -3,7 +3,7 @@
 Pequeño proyecto realizado con la librería de AR.js para la clase de Programación V. 
 
 ## Enlace para probar la aplicación 
-https://sebasab.github.io/AR.js/ 
+* https://sebasab.github.io/AR.js/ 
 
 Está subido a GitHub Pages, para que sea más fácil de revisar y de probar 
 
